@@ -1,0 +1,157 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	
+}
+body {
+	background: #757575;
+}
+.clear {
+	clear: both;
+}
+header {
+	background: black;
+	height: 50px; 
+}
+#wrapper-menu {
+	background: #F2F2F2;
+	height: 30px;
+}
+#menu {
+	width: 900px;
+	margin: 0px auto;
+}
+ul li a {
+	display: inline;
+}
+#main {
+	width: 900px;
+	background: white;
+	margin: 0px auto;
+}
+#sidebar1 {
+	width: 600px;
+	background: #9F3825;
+	float: left;
+}
+#hotalbum {
+	height: 200px;
+	background: black;
+}
+#hotalbum2 div {
+	width: 20%;
+	border: 1px solid black;
+	float: left;
+	height: 35px;
+}
+#chart-trend {
+	background: pink;
+	height: 200px;
+}
+#trend-music {
+	background: white;
+	border: 20px solid white;
+}
+#trend-music p img {
+	height: 50px;
+	width: 70px;
+}
+div #thu7sangkhoai {
+	background: white;
+}
+div .thu7sangkhoai {
+	border: 1px solid black;
+	width: 144px;
+	height: 100px;
+	display: inline-block;
+	background: #ededcc;
+}
+div #video-hot {
+	background: white;
+}
+div .video-hot {
+	border: 1px solid black;
+	width: 130px;
+	height: 100px;
+	display: inline-block;
+	background: blue;
+	margin: 5px;
+}
+div #album-hot {
+	background: white;
+}
+div .album-hot {
+	border: 1px solid black;
+	width: 130px;
+	height: 100px;
+	display: inline-block;
+	background: green;
+	margin: 5px;
+}
+#musicvnhot {
+	width: 50%;
+	float: left;
+	background:pink;
+}
+#musicvnnew {
+	width: 50%;
+	background: grey;
+	float: right;
+}
+div #linkcasi {
+	width: 600px;
+	height: 250px;
+	background: black;
+}
+
+#sidebar2 {
+	width: 300px;
+	background: white;
+	float: right;
+}
+#ads-top {
+	background: blue;
+	height: 100px;
+	margin: 10px 10px;
+}
+#topic {
+	background: white;
+}
+div .topic {
+	height: 100px;
+	background: #4E1E10;
+	margin: 10px 10px;
+}
+div .chartweek-music {
+	width: 300px;
+	margin: 20px;
+}
+div .chartweek-mv {
+	width: 300px;
+	margin: 20px;
+}
+div .chartweek-album img {
+	width: 60px;
+	height: 60px;
+
+}
+*.hot-heading img {
+	height: 125px; 
+	width: 300px;
+	background: black;
+}
+div .newmusic {
+	height: 67px;
+	width: 67px;
+}
+
+
+#doitac {
+	height: 100px;
+	background: green;
+}
+footer {
+	height: 100px;
+	background: pink;
+}
